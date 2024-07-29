@@ -108,11 +108,8 @@ public class ObstacleSpawner : MonoBehaviour
             // Apply the jitter to the spawn time
             spawnTime = spawnTime * (1 + jitter);
 
-            ///////////////////////////////////////////////////////////////////////////////////EWE
-            Debug.Log("Difficulty inside method" + difficulty);
 
-            yield return new WaitForSeconds(spawnTime + difficulty);
-            ///////////////////////////////////////////////////////////////////////////////////EWE
+            yield return new WaitForSeconds(spawnTime );
 
             for (int i = 0; i < numberOfObstacles; i++)
             {

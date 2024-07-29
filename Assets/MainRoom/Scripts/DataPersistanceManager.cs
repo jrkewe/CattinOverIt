@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
+using UnityEngine.SceneManagement;
+using Unity.VisualScripting;
 
 public class DataPersistanceManager : MonoBehaviour
 {
@@ -9,6 +11,9 @@ public class DataPersistanceManager : MonoBehaviour
 
     public bool roomChangementDreamCatcher = false;
     public bool roomChangementRunningAway = false;
+
+    public int roomCount = 0;
+    public bool canChange = false;
 
     private void Awake()
     {

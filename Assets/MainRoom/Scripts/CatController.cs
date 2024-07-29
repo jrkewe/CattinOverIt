@@ -63,15 +63,15 @@ public class CatController : MonoBehaviour
         _animator.SetFloat("ver_move", v);
 
 
-        gameObject.transform.position = new Vector2 (transform.position.x + (h * moveSpeed), 
+        gameObject.transform.position = new Vector2 (transform.position.x + (-h * moveSpeed), 
         transform.position.y + (v * moveSpeed));
 
         // flip the sprite when changing direction
-        if(h == -1)
+        if(h == 1)
         {
             _renderer.flipX = false;
         }
-        else if(h == 1)
+        else if(h == -1)
         {
             _renderer.flipX = true;
         }
@@ -83,7 +83,7 @@ public class CatController : MonoBehaviour
 
             canMove = false;
             var posDelta = transform.position.x - arrivalTransform.position.x;
-            Debug.Log(posDelta);
+            //Debug.Log(posDelta);
             if(crtLevel == 0){
                 if(posDelta < 0)
                 {
@@ -176,7 +176,7 @@ public class CatController : MonoBehaviour
     {
         canMove = true;
         _exclamation.SetActive(false);
-        Debug.Log("unlocked");
+        //Debug.Log("unlocked");
 
     }
 

@@ -18,10 +18,16 @@ public class MainManagerNightmareCatcher : MonoBehaviour
     private Instantiation instance;
     public GameObject menuPanel;
 
+    private DataPersistanceManager dataPersistanceManagerScript;
+
     // Start is called before the first frame update
     void Start()
     {
         instance = GameObject.Find("Game Manager").GetComponent<Instantiation>();
+
+        dataPersistanceManagerScript = GameObject.Find("Data Persistance Manager").GetComponent<DataPersistanceManager>();
+        dataPersistanceManagerScript.canChange = true;
+        dataPersistanceManagerScript.roomCount++;
     }
 
     // Update is called once per frame

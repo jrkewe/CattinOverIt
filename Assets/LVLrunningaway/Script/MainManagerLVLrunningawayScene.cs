@@ -14,6 +14,9 @@ public class MainManagerLVLrunningawayScene : MonoBehaviour
     public Button hard;
     private ObstacleSpawner instance;
 
+
+    private DataPersistanceManager dataPersistanceManagerScript;
+
     private bool difficultyButtonWasClicled = false;
 
     public GameObject menuPanel;
@@ -21,6 +24,10 @@ public class MainManagerLVLrunningawayScene : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
+        dataPersistanceManagerScript = GameObject.Find("Data Persistance Manager").GetComponent<DataPersistanceManager>();
+        dataPersistanceManagerScript.canChange = true;
+        dataPersistanceManagerScript.roomCount++;
         instance = GameObject.Find("ObstacleSpawner").GetComponent<ObstacleSpawner>();
     }
 
