@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: d23a2ed6745b00d459a367f630204710
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5262448, y: 0.43001565}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 5, y: 51, z: 8, w: 40}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cat-eye_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1686
+        width: 242
+        height: 271
+      alignment: 9
+      pivot: {x: 0.56459135, y: 0.332206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6963c81a3ec7d8488d48f5e6af2e427
+      internalID: 1619179555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_1
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1688
+        width: 251
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5169843, y: 0.34554285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fe43c2929056d46b38ac0538c5eec4
+      internalID: 1995711322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1691
+        width: 238
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5238837, y: 0.29321197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3bb6cc5df0a44479bf7ce08ed02abc
+      internalID: -1668654700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_3
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1694
+        width: 246
+        height: 258
+      alignment: 9
+      pivot: {x: 0.47111845, y: 0.34578213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f03cc50ebc598499d08529087aed48
+      internalID: 979465880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_4
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1696
+        width: 315
+        height: 224
+      alignment: 9
+      pivot: {x: 0.3781994, y: 0.5570951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be300b59f423ed941a058c318097aef3
+      internalID: -1241067899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1322
+        width: 271
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3374492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cee979970436b045923f09b43c1f46c
+      internalID: -827007634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1280
+        width: 271
+        height: 312
+      alignment: 9
+      pivot: {x: 0.4737819, y: 0.3906919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef896abb95a6f44f88b2c3efc66559d
+      internalID: 1625075116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1397
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3f4c1fcd60d544688400548e1e963d
+      internalID: -2038135286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_8
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1259
+        width: 171
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23694f9d5f4bbed4db5f71932f93f3ca
+      internalID: 304728836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1277
+        width: 269
+        height: 238
+      alignment: 9
+      pivot: {x: 0.48415264, y: 0.37461686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03649f87483f8434ca1e773dc3c2bde3
+      internalID: 1258713620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_10
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1282
+        width: 238
+        height: 289
+      alignment: 9
+      pivot: {x: 0.34476504, y: 0.38690966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203c5e37822242340ac8f6089d200168
+      internalID: 1957225723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 894
+        width: 406
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5875009, y: 0.4031126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaecfacdd0d19649ae4bb930aadf7b3
+      internalID: -1996641712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_12
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 900
+        width: 258
+        height: 213
+      alignment: 9
+      pivot: {x: 0.41187516, y: 0.33988616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5987dc41e15c77f49b44c385cca14eb0
+      internalID: 1557591678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_13
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 857
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07394cb5282e7534da86e776827c3c27
+      internalID: 91296851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_14
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 921
+        width: 291
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33297685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299ec5dd8b1a92a4590dc9d0defa3bff
+      internalID: -872622242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_15
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 883
+        width: 240
+        height: 228
+      alignment: 9
+      pivot: {x: 0.48756662, y: 0.38220456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45be12dae593a740910acd8be32efd4
+      internalID: -299702570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 484
+        width: 221
+        height: 220
+      alignment: 9
+      pivot: {x: 0.33544177, y: 0.28746367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d16bf96ca9df498222119642c0d9a
+      internalID: -1098789921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 476
+        width: 245
+        height: 297
+      alignment: 9
+      pivot: {x: 0.39704016, y: 0.36046666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf1b064a4035154eafd61a096bc1b1e
+      internalID: 539868055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_18
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 522
+        width: 285
+        height: 296
+      alignment: 9
+      pivot: {x: 0.56322217, y: 0.4756513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e09b8d7393c9a4285fb1af1be115fd
+      internalID: 1263493340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_19
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 481
+        width: 257
+        height: 227
+      alignment: 9
+      pivot: {x: 0.56309897, y: 0.3809384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f62a6ff7dba584b8959596528b152e
+      internalID: 710742364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_20
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 469
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: 0.4907145, y: 0.44852072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852a11f9cc100a84cba3400310e670a2
+      internalID: 1809199545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_21
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 670
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85670bc9ad13ffc4e90e4fe53adb33ae
+      internalID: -416787977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_22
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 651
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c746197cbbeec41b4b9465f24932df
+      internalID: 1098989741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 93
+        width: 296
+        height: 351
+      alignment: 9
+      pivot: {x: 0.48173854, y: 0.24846616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02df4895a98d0f24eadab37721b374fe
+      internalID: 518053822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_24
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db084334132e8cc44b7abefbac7ddc7f
+      internalID: -400761274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 73
+        width: 298
+        height: 362
+      alignment: 9
+      pivot: {x: 0.53023183, y: 0.27104157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f860c9f7d54147b00641647aeb966
+      internalID: -1917158448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_26
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 88
+        width: 256
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5563059, y: 0.31261224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bccf494d2d719446924b580b77a9596
+      internalID: -1074056640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_27
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 89
+        width: 295
+        height: 202
+      alignment: 9
+      pivot: {x: 0.48167703, y: 0.5713592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d7ca0628f37b459158da53b54a651
+      internalID: -1914143767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-eye_28
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 91
+        width: 322
+        height: 235
+      alignment: 9
+      pivot: {x: 0.561553, y: 0.36198932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271e193ff4883674ea1bfd62c12c2b2a
+      internalID: 1126517439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cat-eye_0: 1619179555
+      Cat-eye_1: 1995711322
+      Cat-eye_10: 1957225723
+      Cat-eye_11: -1996641712
+      Cat-eye_12: 1557591678
+      Cat-eye_13: 91296851
+      Cat-eye_14: -872622242
+      Cat-eye_15: -299702570
+      Cat-eye_16: -1098789921
+      Cat-eye_17: 539868055
+      Cat-eye_18: 1263493340
+      Cat-eye_19: 710742364
+      Cat-eye_2: -1668654700
+      Cat-eye_20: 1809199545
+      Cat-eye_21: -416787977
+      Cat-eye_22: 1098989741
+      Cat-eye_23: 518053822
+      Cat-eye_24: -400761274
+      Cat-eye_25: -1917158448
+      Cat-eye_26: -1074056640
+      Cat-eye_27: -1914143767
+      Cat-eye_28: 1126517439
+      Cat-eye_3: 979465880
+      Cat-eye_4: -1241067899
+      Cat-eye_5: -827007634
+      Cat-eye_6: 1625075116
+      Cat-eye_7: -2038135286
+      Cat-eye_8: 304728836
+      Cat-eye_9: 1258713620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

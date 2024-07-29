@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 5d72eb274feaff54eabeb1568b598965
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cat_running_spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1554
+        width: 273
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d910a203d4a2c4891929e64077f6cf
+      internalID: 1692479079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_running_spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1554
+        width: 244
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e1826257636144a8b17104b3634067
+      internalID: -1009182300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_running_spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1555
+        width: 228
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c33f232bae4a48bcd1b6931d4c933
+      internalID: -417187143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_running_spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1553
+        width: 248
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fede34e3ab928948873645205b9e771
+      internalID: 498057808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_running_spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1553
+        width: 221
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6418224ef4bbb1e49be3b58ed41978f4
+      internalID: -1528600535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_running_spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1553
+        width: 222
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b613fb55544b9c4a9add56ce35d34fa
+      internalID: 1336549586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_running_spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1553
+        width: 267
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337b0612eafd61b429be193650291bbf
+      internalID: -1824256370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cat_running_spriteSheet_0: 373378835
+      Cat_running_spriteSheet_1: 840676292
+      Cat_running_spriteSheet_10: 1336549586
+      Cat_running_spriteSheet_11: -1824256370
+      Cat_running_spriteSheet_12: -221881659
+      Cat_running_spriteSheet_13: -1210327266
+      Cat_running_spriteSheet_14: 763388696
+      Cat_running_spriteSheet_15: -1684062788
+      Cat_running_spriteSheet_16: 507954358
+      Cat_running_spriteSheet_17: 2060235078
+      Cat_running_spriteSheet_18: 1024725970
+      Cat_running_spriteSheet_19: 197610145
+      Cat_running_spriteSheet_2: 1692479079
+      Cat_running_spriteSheet_20: -1167278038
+      Cat_running_spriteSheet_21: 1082679253
+      Cat_running_spriteSheet_22: 1273486097
+      Cat_running_spriteSheet_23: 1759484046
+      Cat_running_spriteSheet_24: -423933589
+      Cat_running_spriteSheet_25: 1735003883
+      Cat_running_spriteSheet_26: -525440593
+      Cat_running_spriteSheet_27: -2128033752
+      Cat_running_spriteSheet_3: -1791756446
+      Cat_running_spriteSheet_4: -1009182300
+      Cat_running_spriteSheet_5: -417187143
+      Cat_running_spriteSheet_6: -489163959
+      Cat_running_spriteSheet_7: 498057808
+      Cat_running_spriteSheet_8: -1528600535
+      Cat_running_spriteSheet_9: -1846869064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
